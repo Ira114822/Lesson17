@@ -1,0 +1,1 @@
+import libraryprint(library.Account.tax(1000))print(library.SomeAccount.tax(1000))
